@@ -1,86 +1,157 @@
-<h1 align="center">Hi 👋, I'm Ebung Boniface </h1>
-<h3 align="center">Data Analyst | Business Intelligence Analyst | Turning Data into Strategic Insights</h3>
+<div align="center" id="top">
+  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
----
+  <a href="https://profile-readme-generator.com">Demo</a>
+</div>
 
-## 🚀 About Me  
+<div align="center">
+  <h1>Profile Readme Generator</h1>
+  <h3>The best profile readme generator you will find!</h3>
+</div>
 
-I am a results-driven **Data Analyst** passionate about transforming raw data into actionable insights that drive business growth and strategic decision-making.
+<p align="center">
+  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
+    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+  </a>
 
-I specialize in:
-- 📊 Business Intelligence & Dashboard Development  
-- 📈 Data Analysis & Statistical Modeling  
-- 🧹 Data Cleaning & Transformation  
-- 🗄️ Database Querying & Reporting  
-- 🔄 Version Control & Collaborative Development  
+  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+  </a>
 
-I combine analytical thinking with business understanding to deliver solutions that create measurable impact.
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+  </a>
 
----
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+  </a>
 
-## 🛠️ Tech Stack  
+  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
+  </a>
 
-### 📌 Programming & Analysis  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
+  </a>
 
-### 📊 Data Visualization & BI  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  </a>
+</p>
 
-### 🔄 Version Control  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+</p>
 
-## 📂 Featured Projects  
+## :dart: About ##
 
-🔹 **Sales Performance Dashboard (Power BI)**  
-Built an interactive dashboard analyzing KPIs, revenue trends, and regional performance.
+Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
 
-🔹 **Customer Churn Analysis (Python)**  
-Performed exploratory data analysis and built predictive models to identify churn drivers.
+**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
 
-🔹 **Business Reporting Automation (Excel + MySQL)**  
-Developed automated reporting workflows to reduce manual reporting time.
+**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
 
-🔹 **SQL Data Warehouse Queries**  
-Designed optimized queries for business performance tracking and decision support.
+**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
 
----
 
-## 📈 GitHub Analytics  
+<p align="center">
+<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+## :rocket: Main Technologies ##
 
----
+<a href="https://nextjs.org">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+</a> &#xa0; &#xa0;
 
-## 🎯 Core Competencies  
+<a href="https://www.typescriptlang.org">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+</a> &#xa0; &#xa0;
 
-- Data Cleaning & Wrangling  
-- Exploratory Data Analysis (EDA)  
-- Regression & Correlation Analysis  
-- KPI Development & Performance Tracking  
-- Dashboard & Report Automation  
-- Business Insight Communication  
+<a href="https://tailwindcss.com">
+  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
+</a> &#xa0; &#xa0;
 
----
+<a href="https://jestjs.io">
+  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
+</a> &#xa0; &#xa0;
 
-## 🌍 Open To  
+<a href="https://eslint.org">
+  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+</a> &#xa0; &#xa0;
 
-✔ Data Analyst Roles  
-✔ Business Intelligence Positions  
-✔ Remote & On-site Opportunities  
-✔ Data Consulting Projects  
+<a href="https://prettier.io">
+  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
+</a>
 
----
+###
 
-## 📫 Let's Connect  
+<details>
+  <summary>See more</summary>
 
-I’m always open to collaborating on data projects or discussing opportunities.
+  ###
 
-⭐ *Turning Data Into Actionable Insights*
+  * [Shadcn](https://ui.shadcn.com)
+  * [Radix](https://www.radix-ui.com)
+  * [Lucid Icons](https://lucide.dev)
+  * [clsx](https://github.com/lukeed/clsx#readme)
+  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
+  * [Tailwind Variants](https://www.tailwind-variants.org)
+  * [Framer Motion](https://framer.com/motion/)
+  * [Prismjs](https://prismjs.com)
+  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
+  * [React Share](https://github.com/nygardk/react-share)
+  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
+  * [UUID](https://github.com/uuidjs/uuid#readme)
+
+</details>
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/maurodesouza/profile-readme-generator
+
+# Access
+$ cd profile-readme-generator
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn dev
+
+# The server will initialize in the <http://localhost:3000>
+```
+
+## :video_game: Scripts
+
+- `dev`: starts the application at `localhost:3000`;
+- `build`: creates an optimized production build of the application;
+- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
+- `test`: runs the tests;
+- `lint`: runs eslint in the /src directory.
+
+## :memo: License ##
+
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
+
+
+Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
+
+*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
