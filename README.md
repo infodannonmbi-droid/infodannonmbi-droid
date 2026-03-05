@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 <a href="https://github.com/infodannonmbi-droid">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Data%20Scientist%20%26%20ML%20Engineer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%2C%20models%20into%20impact&descAlignY=58&descSize=16&descColor=a8c8e8" />
+  <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Data%20Scientist%20%26%20ML%20Engineer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%2C%20models%20into%20impact&descAlignY=58&descSize=16&descColor=a8c8e8](https://cdn.dribbble.com/userupload/27542133/file/original-3f2e2cf49533d211bcee11362b430cf9.jpg?resize=752x&vertical=center)" />
 </a>
 
 <!-- Typing Animation -->
