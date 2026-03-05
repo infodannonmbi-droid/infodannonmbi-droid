@@ -16,7 +16,7 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name         = "Your Name"
+        self.name         = "Boniface Ebung"
         self.role         = "Data Scientist & ML Engineer"
         self.location     = "Your City, Country"
         self.focus        = ["Machine Learning", "Deep Learning", "MLOps"]
@@ -31,7 +31,7 @@ me = DataScientist()
 me.say_hi()
 ```
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/infodannonmbi-droid">
   <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ef7&icon_color=2c9ef7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 </a>
 
