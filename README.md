@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 <a href="https://github.com/infodannonmbi-droid">
-  <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Data%20Scientist%20%26%20ML%20Engineer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%2C%20models%20into%20impact&descAlignY=58&descSize=16&descColor=a8c8e8](https://cdn.dribbble.com/userupload/27542133/file/original-3f2e2cf49533d211bcee11362b430cf9.jpg?resize=752x&vertical=center)" />
+  <img width="100%" src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1280&h=300&fit=crop&q=80" alt="Data Scientist & ML Engineer Banner"/>
 </a>
 
 <!-- Typing Animation -->
@@ -32,7 +32,7 @@ me.say_hi()
 ```
 
 <a href="https://github.com/infodannonmbi-droid">
-  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ef7&icon_color=2c9ef7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=infodannonmbi-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ef7&icon_color=2c9ef7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 </a>
 
 - 🔭 Currently working on **end-to-end ML systems & LLM applications**
@@ -87,24 +87,24 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ef7&icon_color=2c9ef7&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/infodannonmbi-droid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=infodannonmbi-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ef7&icon_color=2c9ef7&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ef7&text_color=c9d1d9&langs_count=8"/>
+<a href="https://github.com/infodannonmbi-droid?tab=repositories">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infodannonmbi-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ef7&text_color=c9d1d9&langs_count=8"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c9ef7&ring=2c9ef7&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2c9ef7&sideLabels=2c9ef7&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=infodannonmbi-droid&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c9ef7&ring=2c9ef7&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2c9ef7&sideLabels=2c9ef7&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=2c9ef7&line=2c9ef7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=infodannonmbi-droid&bg_color=0d1117&color=2c9ef7&line=2c9ef7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -114,8 +114,24 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=infodannonmbi-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+---
+
+## 🌐 Featured Visuals
+
+<div align="center">
+  <img width="49%" src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=300&fit=crop&q=80" alt="Neural Network AI"/>
+  <img width="49%" src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=300&fit=crop&q=80" alt="Data Matrix"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=600&h=300&fit=crop&q=80" alt="AI Chip Deep Learning"/>
+  <img width="49%" src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=600&h=300&fit=crop&q=80" alt="ML Developer Setup"/>
 </div>
 
 ---
@@ -123,7 +139,7 @@ me.say_hi()
 <div align="center">
 
 <!-- Profile Views Counter -->
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2c9ef7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=infodannonmbi-droid&color=2c9ef7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/infodannonmbi-droid)
 
 <!-- Footer Wave -->
 <a href="#top">
