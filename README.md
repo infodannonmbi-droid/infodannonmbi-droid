@@ -40,7 +40,7 @@ me.say_hi()
 - 📊 Love turning messy, raw data into **actionable business insights**
 - 🚀 Advocate for **reproducible research** and **clean ML code**
 - 💡 Always exploring the intersection of **AI and real-world impact**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **info.dannonmbi@gmail.com**
 
 <br clear="right"/>
 
